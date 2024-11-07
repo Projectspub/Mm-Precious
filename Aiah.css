@@ -1,0 +1,70 @@
+body{
+    background-image: url(AIAH.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+button{
+    margin-top: 3.5%;
+    margin-left: 2%;
+    font-size: larger;
+    font-weight: bold;
+    width: 8%;
+    height: 35px;
+}
+
+div{
+    margin-left: 15cm;
+    font-size: 160%;
+    text-align: center;
+}
+
+p{
+    margin-top: 3cm;
+}
+
+container{
+    margin-left: 57%;
+}
+
+.fa-instagram{
+    color: orangered;
+    margin-left: 3%;
+    font-size: 1.5cm;
+}
+
+.fa-instagram:hover{
+    color: white;
+}
+
+.fa-facebook{
+    color: blue;
+    margin-left: 3%;
+    font-size: 1.5cm;
+}
+
+.fa-facebook:hover{
+    color: white;
+}
+
+.fa-tiktok{
+    color: black;
+    margin-left: 3%;
+    font-size: 1.5cm;
+}
+
+.fa-tiktok:hover{
+    color: white;
+}
+
+.fa-wikipedia-w{
+    color: yellow;
+    margin-left: 2.5%;
+    font-size: 1.5cm;
+}
+
+.fa-wikipedia-w:hover{
+    color: white;
+}

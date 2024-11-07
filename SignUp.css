@@ -1,0 +1,56 @@
+body{
+    background-image: url(BG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 70px;
+    margin-left: 14.5cm;
+    margin-bottom: 70px;
+}
+
+.fill{
+    font-size: 16px;
+    margin-left: 12cm;
+    margin-top: -1cm;
+    background-color: gray;
+    opacity: 75%; 
+    color: black;
+    width: 415px;
+    text-align: center;
+    border-radius: 10%;
+    padding-bottom: 3%;
+    padding-top: 1%;
+}
+
+.bck{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    width: 30%;
+    padding: 2%;
+    margin-top: 35px;
+}
+
+.bck:hover{
+    background-color: pink;
+    transition: .3s;
+}
+
+.sign{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    width: 30%;
+    padding: 2%;
+    margin-top: 35px;
+    margin-left: 5%;
+}
+
+.sign:hover{
+    background-color: pink;
+    transition: .3s;
+}

@@ -1,0 +1,67 @@
+body{
+    background-image: url(BINI\ PIC2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    margin-top: 1.5%;
+    font-weight: 400%;
+    font-size: 70px;
+    margin-left: 5.6cm;
+}
+
+.fill{
+    font-size: 16px;
+    margin-left: 5cm;
+    margin-top: -1cm;
+    background-color: blue;
+    opacity: 75%; 
+    color: black;
+    width: 415px;
+    text-align: center;
+    border-radius: 10%;
+    padding-bottom: 3%;
+    padding-top: 1%;
+}
+
+h4{
+    font-size: large;
+}
+
+a{
+    color: pink;
+}
+
+a:hover{
+    color: red;
+}
+
+.bck1{
+    font-weight: bold;
+    font-size: larger;
+    width: 30%;
+    padding: 2%
+    
+}
+
+.bck1:hover{
+    background-color: pink;
+    transition: .3s;
+}
+
+.bck{
+    margin-left: 15px;
+    font-size: larger;
+    font-weight: bold;
+    width: 30%;
+    padding: 2%;
+    margin-top: 5px;
+}
+
+.bck:hover{
+    background-color: pink;
+    transition: .3s;
+}

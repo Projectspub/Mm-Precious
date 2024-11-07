@@ -1,0 +1,28 @@
+body{
+    background-image: url(BG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h1{
+    font-size: 75px;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+.btn{
+    background-color: blue;
+    margin-left: 43%;
+    margin-top: 3%;
+    width: 10%;
+    height: 47px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: pink;
+}
